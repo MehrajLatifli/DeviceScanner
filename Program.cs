@@ -59,6 +59,7 @@ namespace DeviceScanner
                 }
 
                 Console.WriteLine("---------------------------------------");
+
             }
         }
     }
